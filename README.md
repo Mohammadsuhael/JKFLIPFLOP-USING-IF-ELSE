@@ -1,5 +1,7 @@
 # JKFLIPFLOP-USING-IF-ELSE
 
+DATE:20/12/2024
+
 **AIM:** 
 
 To implement  JK flipflop using verilog and validating their functionality using their functional tables
